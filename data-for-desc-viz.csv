@@ -1,0 +1,217 @@
+Region,GNI,Year,Sex
+Arab States,18516,1995,Male
+Arab States,20509,2000,Male
+Arab States,22169,2005,Male
+Arab States,24175,2010,Male
+Arab States,24083,2011,Male
+Arab States,24883,2012,Male
+Arab States,24682,2013,Male
+Arab States,24896,2014,Male
+Arab States,25305,2015,Male
+Arab States,25714,2016,Male
+Arab States,25375,2017,Male
+Arab States,25343,2018,Male
+East Asia and the Pacific,4217,1995,Male
+East Asia and the Pacific,5308,2000,Male
+East Asia and the Pacific,7507,2005,Male
+East Asia and the Pacific,11130,2010,Male
+East Asia and the Pacific,11869,2011,Male
+East Asia and the Pacific,12678,2012,Male
+East Asia and the Pacific,13420,2013,Male
+East Asia and the Pacific,14324,2014,Male
+East Asia and the Pacific,15035,2015,Male
+East Asia and the Pacific,15874,2016,Male
+East Asia and the Pacific,16790,2017,Male
+East Asia and the Pacific,17729,2018,Male
+Europe and Central Asia,9347,1995,Male
+Europe and Central Asia,10968,2000,Male
+Europe and Central Asia,14592,2005,Male
+Europe and Central Asia,16048,2010,Male
+Europe and Central Asia,17067,2011,Male
+Europe and Central Asia,17554,2012,Male
+Europe and Central Asia,18498,2013,Male
+Europe and Central Asia,19107,2014,Male
+Europe and Central Asia,19448,2015,Male
+Europe and Central Asia,19570,2016,Male
+Europe and Central Asia,20274,2017,Male
+Europe and Central Asia,20675,2018,Male
+Latin America and the Caribbean,14237,1995,Male
+Latin America and the Caribbean,15113,2000,Male
+Latin America and the Caribbean,15224,2005,Male
+Latin America and the Caribbean,17214,2010,Male
+Latin America and the Caribbean,17516,2011,Male
+Latin America and the Caribbean,17664,2012,Male
+Latin America and the Caribbean,18394,2013,Male
+Latin America and the Caribbean,18307,2014,Male
+Latin America and the Caribbean,17734,2015,Male
+Latin America and the Caribbean,18079,2016,Male
+Latin America and the Caribbean,18040,2017,Male
+Latin America and the Caribbean,18005,2018,Male
+South Asia,4359,1995,Male
+South Asia,4968,2000,Male
+South Asia,5973,2005,Male
+South Asia,7533,2010,Male
+South Asia,7847,2011,Male
+South Asia,8053,2012,Male
+South Asia,8329,2013,Male
+South Asia,8764,2014,Male
+South Asia,9153,2015,Male
+South Asia,9774,2016,Male
+South Asia,10255,2017,Male
+South Asia,10693,2018,Male
+Sub-Saharan Africa,2941,1995,Male
+Sub-Saharan Africa,2965,2000,Male
+Sub-Saharan Africa,3428,2005,Male
+Sub-Saharan Africa,3854,2010,Male
+Sub-Saharan Africa,3926,2011,Male
+Sub-Saharan Africa,3938,2012,Male
+Sub-Saharan Africa,4037,2013,Male
+Sub-Saharan Africa,4167,2014,Male
+Sub-Saharan Africa,4219,2015,Male
+Sub-Saharan Africa,4171,2016,Male
+Sub-Saharan Africa,4148,2017,Male
+Sub-Saharan Africa,4133,2018,Male
+Least Developed Countries,1716,1995,Male
+Least Developed Countries,1920,2000,Male
+Least Developed Countries,2309,2005,Male
+Least Developed Countries,2906,2010,Male
+Least Developed Countries,3027,2011,Male
+Least Developed Countries,3064,2012,Male
+Least Developed Countries,3063,2013,Male
+Least Developed Countries,3232,2014,Male
+Least Developed Countries,3302,2015,Male
+Least Developed Countries,3333,2016,Male
+Least Developed Countries,3382,2017,Male
+Least Developed Countries,3462,2018,Male
+Small Island Developing States,11150,1995,Male
+Small Island Developing States,12857,2000,Male
+Small Island Developing States,14086,2005,Male
+Small Island Developing States,16979,2010,Male
+Small Island Developing States,16464,2011,Male
+Small Island Developing States,16841,2012,Male
+Small Island Developing States,17262,2013,Male
+Small Island Developing States,17831,2014,Male
+Small Island Developing States,18090,2015,Male
+Small Island Developing States,18267,2016,Male
+Small Island Developing States,18654,2017,Male
+Small Island Developing States,19066,2018,Male
+World,12168,1995,Male
+World,13528,2000,Male
+World,15131,2005,Male
+World,16856,2010,Male
+World,17286,2011,Male
+World,17603,2012,Male
+World,17988,2013,Male
+World,18430,2014,Male
+World,18788,2015,Male
+World,19243,2016,Male
+World,19715,2017,Male
+World,20168,2018,Male
+Arab States,2882,1995,Female
+Arab States,3340,2000,Female
+Arab States,3998,2005,Female
+Arab States,4643,2010,Female
+Arab States,5049,2011,Female
+Arab States,5341,2012,Female
+Arab States,5106,2013,Female
+Arab States,5211,2014,Female
+Arab States,5290,2015,Female
+Arab States,5373,2016,Female
+Arab States,5333,2017,Female
+Arab States,5339,2018,Female
+East Asia and the Pacific,2468,1995,Female
+East Asia and the Pacific,3140,2000,Female
+East Asia and the Pacific,4458,2005,Female
+East Asia and the Pacific,7091,2010,Female
+East Asia and the Pacific,7642,2011,Female
+East Asia and the Pacific,8187,2012,Female
+East Asia and the Pacific,8654,2013,Female
+East Asia and the Pacific,9214,2014,Female
+East Asia and the Pacific,9725,2015,Female
+East Asia and the Pacific,10250,2016,Female
+East Asia and the Pacific,10819,2017,Female
+East Asia and the Pacific,11384,2018,Female
+Europe and Central Asia,4093,1995,Female
+Europe and Central Asia,4342,2000,Female
+Europe and Central Asia,5667,2005,Female
+Europe and Central Asia,7907,2010,Female
+Europe and Central Asia,8404,2011,Female
+Europe and Central Asia,8751,2012,Female
+Europe and Central Asia,9284,2013,Female
+Europe and Central Asia,9504,2014,Female
+Europe and Central Asia,9782,2015,Female
+Europe and Central Asia,9921,2016,Female
+Europe and Central Asia,10377,2017,Female
+Europe and Central Asia,10587,2018,Female
+Latin America and the Caribbean,6409,1995,Female
+Latin America and the Caribbean,7071,2000,Female
+Latin America and the Caribbean,8068,2005,Female
+Latin America and the Caribbean,9416,2010,Female
+Latin America and the Caribbean,9990,2011,Female
+Latin America and the Caribbean,10388,2012,Female
+Latin America and the Caribbean,10223,2013,Female
+Latin America and the Caribbean,10388,2014,Female
+Latin America and the Caribbean,10673,2015,Female
+Latin America and the Caribbean,9813,2016,Female
+Latin America and the Caribbean,9848,2017,Female
+Latin America and the Caribbean,9836,2018,Female
+South Asia,955,1995,Female
+South Asia,1164,2000,Female
+South Asia,1563,2005,Female
+South Asia,1868,2010,Female
+South Asia,1876,2011,Female
+South Asia,1861,2012,Female
+South Asia,1956,2013,Female
+South Asia,2063,2014,Female
+South Asia,2211,2015,Female
+South Asia,2394,2016,Female
+South Asia,2538,2017,Female
+South Asia,2639,2018,Female
+Sub-Saharan Africa,1723,1995,Female
+Sub-Saharan Africa,1800,2000,Female
+Sub-Saharan Africa,2069,2005,Female
+Sub-Saharan Africa,2519,2010,Female
+Sub-Saharan Africa,2588,2011,Female
+Sub-Saharan Africa,2619,2012,Female
+Sub-Saharan Africa,2699,2013,Female
+Sub-Saharan Africa,2774,2014,Female
+Sub-Saharan Africa,2800,2015,Female
+Sub-Saharan Africa,2765,2016,Female
+Sub-Saharan Africa,2762,2017,Female
+Sub-Saharan Africa,2752,2018,Female
+Least Developed Countries,780,1995,Female
+Least Developed Countries,878,2000,Female
+Least Developed Countries,1056,2005,Female
+Least Developed Countries,1406,2010,Female
+Least Developed Countries,1453,2011,Female
+Least Developed Countries,1489,2012,Female
+Least Developed Countries,1552,2013,Female
+Least Developed Countries,1620,2014,Female
+Least Developed Countries,1662,2015,Female
+Least Developed Countries,1703,2016,Female
+Least Developed Countries,1764,2017,Female
+Least Developed Countries,1807,2018,Female
+Small Island Developing States,4966,1995,Female
+Small Island Developing States,5913,2000,Female
+Small Island Developing States,6929,2005,Female
+Small Island Developing States,9352,2010,Female
+Small Island Developing States,10261,2011,Female
+Small Island Developing States,10251,2012,Female
+Small Island Developing States,10537,2013,Female
+Small Island Developing States,10950,2014,Female
+Small Island Developing States,11316,2015,Female
+Small Island Developing States,11464,2016,Female
+Small Island Developing States,11746,2017,Female
+Small Island Developing States,12022,2018,Female
+World,6108,1995,Female
+World,6949,2000,Female
+World,8053,2005,Female
+World,9345,2010,Female
+World,9651,2011,Female
+World,9870,2012,Female
+World,10041,2013,Female
+World,10303,2014,Female
+World,10560,2015,Female
+World,10717,2016,Female
+World,11012,2017,Female
+World,11246,2018,Female
